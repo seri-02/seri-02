@@ -1,7 +1,10 @@
-## Olá! Eu sou o Jonathas.
+## Olá! Eu sou o Jonathas Seri
 
-- 🔭 Analista de Sistemas, atuando com suporte, análise e manutenção de sistemas
-- 🌱 Estudando Java, foco em backend
+🧑🏼‍💻 Analista de Sistemas, atuando com suporte, análise e manutenção de sistemas na Yazaki
+
+🎓 Estudante de Gestão da Tecnologia da Informação (GTI) na Fatec
+
+📚 Estudando diariamente para melhorar minhas habilidades e construir um portifólio sólido.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Seri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
