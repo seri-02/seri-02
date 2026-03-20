@@ -4,7 +4,7 @@
 
 🎓 Estudante de Gestão da Tecnologia da Informação (GTI) na Fatec
 
-📚 Estudando diariamente para melhorar minhas habilidades e construir um portifólio sólido.
+🚀 Focado em evolução para desenvolvimento back-end, com estudos e projetos em Java, C, MySQL, Git e Linux
 
 <div style="display: inline_block"><br> <!-- Dev Icons o site para pegar as imagens -->
   <img align="center" alt="Seri-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,6 +22,5 @@
 <div>
   <a href="https://www.linkedin.com/in/jonathas-seri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonathasseri.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jonathas_seri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://portifolio-tan-iota-30.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div>
