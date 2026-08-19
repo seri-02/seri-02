@@ -1,10 +1,13 @@
 ## Olá! Eu sou o Jonathas Seri
 
-🧑🏼‍💻 Analista de Sistemas, atuando com suporte, análise e manutenção de sistemas na Yazaki
+🧑🏼‍💻 Consultor de TI & Desenvolvedor backend em evolução  
+- Utilizo minha experiência diária em análise e sustentação de sistemas ERP na Yazaki para construir soluções backend robustas, escaláveis e eficientes.
 
-🎓 Estudante de Gestão da Tecnologia da Informação (GTI) na Fatec
+🎓 Estudante de Gestão da TI (GTI) na Fatec  
+- Aliando visão estratégica de processos corporativos com arquitetura de software e engenharia de dados.
 
-🚀 Focado em evolução para desenvolvimento back-end, com estudos e projetos em Java, C, MySQL, Git e Linux
+🚀 Tech Stack & Estudos  
+- Java | JavaScript | C | MySQL | Linux | Git
 
 <div style="display: inline_block"><br> <!-- Dev Icons o site para pegar as imagens -->
   <img align="center" alt="Seri-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
